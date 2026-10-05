@@ -1,0 +1,11 @@
+{
+  "name": "steward",
+  "version": "1.0.0",
+  "description": "Pay for x402 APIs with Steward — micropayments for AI agents in USDC on Base. Use when an agent needs to call a paid API endpoint and must complete an x402 payment first.",
+  "author": "Brian Booms",
+  "license": "MIT",
+  "platforms": ["claude-code", "codex", "cursor"],
+  "tags": ["x402", "payments", "usdc", "base", "agent-commerce", "micropayments"],
+  "skill_file": "skills/steward/SKILL.md",
+  "created": "2026-10-05"
+}
